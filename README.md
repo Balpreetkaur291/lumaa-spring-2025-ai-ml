@@ -76,43 +76,44 @@ I love thrilling action movies set in space, with a comedic twist.
 
 Recommended Movies:
 
-Rank: 1
-Movie: Amarcord
-Similarity Score: 0.2256
-Description: A series of comedic and nostalgic vignettes set in a 1930s Italian coastal town.
+Rank: 1  
+Movie: Amarcord   
+Similarity Score: 0.2256   
+Description: A series of comedic and nostalgic vignettes set in a 1930s Italian coastal town.  
 
-Rank: 2
-Movie: The Man Who Would Be King
-Similarity Score: 0.1249
+Rank: 2   
+Movie: The Man Who Would Be King   
+Similarity Score: 0.1249   
 Description: Two former British soldiers in 1880s India decide to set themselves up as Kings in Kafiristan, a land where no white man has set foot since Alexander the Great.
 
-Rank: 3
-Movie: Gravity
-Similarity Score: 0.1190
+Rank: 3   
+Movie: Gravity   
+Similarity Score: 0.1190   
 Description: Two astronauts work together to survive after an accident leaves them stranded in space.
 
-Rank: 4
-Movie: The Incredibles
-Similarity Score: 0.1113
+Rank: 4   
+Movie: The Incredibles   
+Similarity Score: 0.1113   
 Description: While trying to lead a quiet suburban life, a family of undercover superheroes are forced into action to save the world.
 
-Rank: 5
-Movie: Barton Fink
-Similarity Score: 0.1089
+Rank: 5   
+Movie: Barton Fink   
+Similarity Score: 0.1089   
 Description: A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.
 
 The system ranks the movies based on similarity scores and provides detailed descriptions.
 
 ---
 
-Salary expectation per month (Mandatory)
+Salary expectation per month (Mandatory)   
 $1600-2000/month
 
 Thank you for reviewing my submission! I look forward to the opportunity to work with you and contribute my skills to your team. I appreciate your time and consideration.
 
 Best,
-Balpreet Kaur
-Master’s in Computer Science
-University of Massachusetts Amherst
-Email:- bbalpreetkau@umass.edu
+
+Balpreet Kaur  
+Master’s in Computer Science  
+University of Massachusetts Amherst  
+Email: bbalpreetkau@umass.edu
 
